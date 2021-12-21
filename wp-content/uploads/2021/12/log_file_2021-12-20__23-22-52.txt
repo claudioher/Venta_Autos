@@ -1,0 +1,53 @@
+
+---Upload files---
+Redux file was not uploaded. Error: El archivo indicado falló la prueba de carga.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/autos
+Data file = C:\xampp\htdocs\autos/wp-content/uploads/2021/12/content.xml
+Widget file = C:\xampp\htdocs\autos/wp-content/uploads/2021/12/widgets.wie
+Customizer file = C:\xampp\htdocs\autos/wp-content/uploads/2021/12/theme-options.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Auto Listings Archive : 
+
+Texto - I&#039;m looking for - Imported
+Texto - Sidebar Listings - Imported
+
+Sidebar : 
+
+Buscar - No Title - Widget already exists
+Texto - About Auto Listings - Imported
+jetpack_widget_social_icons - Social Media - Site does not support widget
+Categorías - No Title - Widget already exists
+jr_insta_slider - Instagram Slider - Site does not support widget
+Nube de etiquetas - No Title - Imported
+Imagen - No Title - Imported
+twitter_timeline - Twitter Feed - Site does not support widget
+Texto - About Auto Listings - Imported
+
+Topbar Contact : 
+
+Carlistings: Contact Info - No Title - Imported
+
+Topbar Languages : 
+
+HTML Personalizado - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
